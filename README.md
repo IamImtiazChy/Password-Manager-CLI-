@@ -1,0 +1,1 @@
+This is a local password manager that uses Python and MariaDB. It encrypts and decrypts passwords with AES-256, which requires a 256-bit key. The key is generated from a MASTER PASSWORD and a DEVICE SECRET using pbkdf2.
